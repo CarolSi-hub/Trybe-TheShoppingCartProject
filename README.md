@@ -1,6 +1,7 @@
 # Welcome to the Shopping Cart project repository!
 
 ---
+https://carolsi-hub.github.io/Trybe-TheShoppingCartProject/
 
 ## Project requirements
 
