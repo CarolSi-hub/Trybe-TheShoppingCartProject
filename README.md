@@ -15,7 +15,7 @@ In this app, the user can pic a product and add it to cart.
 <br>
 -------------------------------------------------------------------
 
-Essa aplicação é a simulação de um ecommer, consumindo APIs disponibilizadas pelo Mercado Livre.<br>
+Essa aplicação é a simulação de um ecommerce, consumindo APIs disponibilizadas pelo Mercado Livre.<br>
 
 
 
